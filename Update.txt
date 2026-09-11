@@ -1,4 +1,4 @@
-version=2
+version=3
 • Fixed crash on launch
 • Updated auto-download engine
 • Added anti-cheat bypass
