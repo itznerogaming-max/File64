@@ -1,2 +1,5 @@
-
-SUBSCRIBE FOR MORE FUTURE UPDATES 
+version=2
+• Fixed crash on launch
+• Updated auto-download engine
+• Added anti-cheat bypass
+• Improved menu stability
