@@ -1,5 +1,0 @@
-version=1
-• Fixed crash on launch
-• Updated auto-download engine
-• Added anti-cheat bypass
-• Improved menu stability
